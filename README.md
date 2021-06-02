@@ -3,7 +3,7 @@
 отсюда взяли эту задачу и данные: [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/syllabus)
 
 Набор полезных курсов
-+ [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/syllabus) - этот курсик ___устарел___
++ [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/syllabus)
 + [Нейронные сети](https://stepik.org/course/401)  - этот курсик ___устарел___
 
 + [Основы статистики](https://stepik.org/course/76)
