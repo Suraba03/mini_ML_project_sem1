@@ -1,8 +1,8 @@
-# Реферат за первый семестр в МАИ
+# Research paper for 1st semester of 1st year
 
-отсюда взяли эту задачу и данные: [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/syllabus)
+origin of idea and data: [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/syllabus)
 
-Набор полезных курсов
+great courses
 + [Введение в Data Science и машинное обучение](https://stepik.org/course/4852/syllabus)
 + [Нейронные сети](https://stepik.org/course/401)  - этот курсик ___устарел___
 
@@ -26,5 +26,5 @@
 
 + [Документация по scikit-learn](https://scikit-learn.org/stable/ljrevtynfw)
 
-## примечание
-вместо устаревших курсов по ML можно посмотреть [статью](https://habr.com/ru/post/417209/) на хабре со свежими ресурсами, там можно найти и про математику для нейронных сетей
+## note
+instead obsolete ML courses you may check this [article](https://habr.com/ru/post/417209/)
